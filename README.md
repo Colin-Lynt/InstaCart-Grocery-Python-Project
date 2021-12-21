@@ -33,7 +33,7 @@ For this project, the following python libraries were used:
 - Seaborn: For Visualization
 
 ## Executing The Code
-The code is available as a jupyter notebook, available under /03 scripts/.
+The code is available as a jupyter notebook, available under /03 Scripts/.
 To launch the notebook, open terminal and run the command:
 - Importing data: `jupyter notebook importData.ipynb`
 - Generate CrossTabs: `jupyter notebook createCrossTabs.ipynb`
