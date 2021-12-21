@@ -4,7 +4,7 @@
 ## About
 For this project Instacart is a fictional online grocery company that has hired me as a data analyst. My task is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria utilizing python. They want me to look into customer purchasing habits and identify common trends to start a targeted marketing strategy. They want to target different customers with applicable marketing campaigns to see whether these campaigns have an effect on the sale of their products.
 
-Note: Instacart is a real company that’s made their data available online. However, the contents of this project brief have been fabricated for the purpose of this Achievement.
+**Note:** *Instacart is a real company that’s made their data available online. However, the contents of this project brief have been fabricated for the purpose of this Achievement.*
 
 ## Key Questions
 - The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
