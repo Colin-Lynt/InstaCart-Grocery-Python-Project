@@ -7,7 +7,7 @@ For this project, Instacart is a fictional online grocery company that has hired
 **Note:** *Instacart is a real company that’s made their data available online. However, the contents of this project brief have been fabricated for the purpose of this Achievement.*
 
 ## Key Questions
-The Instacart marketing and sales teams has asked a series of business related questions. Here are the main questions they’d like answered:
+The Instacart marketing and sales teams have asked a series of business related questions. Here are the main questions they’d like answered:
 
 - The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
 - They also want to know whether there are particular times of the day when people spend the most money, as this might inform the type of products they advertise at these times.
